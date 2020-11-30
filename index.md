@@ -6,7 +6,7 @@ Ingeniero Civil en Computación e Informática
 </div>
 
 ## Experience
-### <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEelvoorCHrNg/company-logo_100_100/0/1563900304825?e=1614816000&v=beta&t=H_ZX1BherCPW0UrpnZUfpfEysnGONyZhWXfHBDvAIT4" alt="FIF logo" width="100" height="100"> Falabella Financiero - March 2017 - Present
+### <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEelvoorCHrNg/company-logo_100_100/0/1563900304825?e=1614816000&v=beta&t=H_ZX1BherCPW0UrpnZUfpfEysnGONyZhWXfHBDvAIT4" alt="FIF logo" width="80" height="80"> Falabella Financiero - March 2017 - Present
 
 `June 2019 - now`
 __DevOps Experience Team Leader__
@@ -23,9 +23,9 @@ __DevOps Engineer__
 - Docker, Docker Swarm and Docker Compose has used to deploy microservices
 - Packer tool to build immutable images
 
-### <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQH6L6y09f06Uw/company-logo_100_100/0?e=1614816000&v=beta&t=Wap0th9HE5T7BLHr15kRd9ImES4jCcExCmoFjEFRjcY" alt="Latam Airlines logo" width="100" height="100"> Latam Airlines - March 2013 - March 2017
+### <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQH6L6y09f06Uw/company-logo_100_100/0?e=1614816000&v=beta&t=Wap0th9HE5T7BLHr15kRd9ImES4jCcExCmoFjEFRjcY" alt="Latam Airlines logo" width="80" height="80"> Latam Airlines - March 2013 - March 2017
 
-`June 2015 - now`
+`June 2015 - March 2017`
 __Continuous Delivery Engineer__
 
 - Defining quality strategy to software development teams.
@@ -50,7 +50,7 @@ __Quality Assurance Engineer__
 - Docker, Docker Swarm and Docker Compose has used to deploy microservices
 - Packer tool to build immutable images
 
-### <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQE-LuyMLMByIA/company-logo_100_100/0/1593440763611?e=1614816000&v=beta&t=70D-oJrSeBtrJuwJ3MisWQEBm1EUBKZln6wdFqXQfAM" alt="Everis logo" width="100" height="100"> Everis - June 2012 - March 2013
+### <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQE-LuyMLMByIA/company-logo_100_100/0/1593440763611?e=1614816000&v=beta&t=70D-oJrSeBtrJuwJ3MisWQEBm1EUBKZln6wdFqXQfAM" alt="Everis logo" width="80" height="80"> Everis - June 2012 - March 2013
 
 `June 2012 - March 2013`
 __Java Software Developer__
@@ -59,7 +59,7 @@ __Java Software Developer__
 - Design and automation of functional tests to LAN.com critical applications.
 - Software Quality community leader.
 
-### <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFtkxisALqwzg/company-logo_100_100/0/1531152256062?e=1614816000&v=beta&t=YKCB29sO0tNhjrWrWQv_XTOn3aLLwiv-1QLSrjR0aFs" alt="Bci logo" width="100" height="100"> BCI - January 2012 - June 2012
+### <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFtkxisALqwzg/company-logo_100_100/0/1531152256062?e=1614816000&v=beta&t=YKCB29sO0tNhjrWrWQv_XTOn3aLLwiv-1QLSrjR0aFs" alt="Bci logo" width="80" height="80"> BCI - January 2012 - June 2012
 
 `January 2012 - June 2012`
 __Intern__
