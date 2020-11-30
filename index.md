@@ -1,9 +1,12 @@
 # Diego Andrés Gómez García
-Ingeniero Civil en Computación e Informática
-
-<div id="webaddress">
+Birth date: Oct 1st 1987
+Marital status: Married
+Ingeniero Civil en Computación e Informática - Universidad Central de Chile
+Movile phone: <a href="tel:56982875248">+56982875248</a>
+E-mail: <div id="webaddress">
 <a href="diego.a.gomez.garcia@gmail.com">diego.a.gomez.garcia@gmail.com</a>
 </div>
+Linked In: http://goo.gl/2seIRo
 
 ## Experience
 ### <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEelvoorCHrNg/company-logo_100_100/0/1563900304825?e=1614816000&v=beta&t=H_ZX1BherCPW0UrpnZUfpfEysnGONyZhWXfHBDvAIT4" alt="FIF" > Falabella Financiero - March 2017 - Present
