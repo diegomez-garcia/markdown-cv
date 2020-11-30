@@ -1,8 +1,8 @@
 # Diego Andrés Gómez García
 Birth date: Oct 1st 1987<br />
-Marital status: Married
-Ingeniero Civil en Computación e Informática - Universidad Central de Chile
-Movile phone: <a href="tel:56982875248">+56982875248</a>
+Marital status: Married<br />
+Ingeniero Civil en Computación e Informática - Universidad Central de Chile<br />
+Movile phone: <div id="webaddress"><a href="tel:56982875248">+56982875248</a><br /></div>
 E-mail: <div id="webaddress">
 <a href="diego.a.gomez.garcia@gmail.com">diego.a.gomez.garcia@gmail.com</a>
 </div>
