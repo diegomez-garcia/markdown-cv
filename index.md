@@ -1,7 +1,3 @@
----
-layout: cv
-title: Diego Gómez García's CV
----
 # Diego Andrés Gómez García
 Ingeniero Civil en Computación e Informática
 
